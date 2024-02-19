@@ -1,3 +1,4 @@
+![logo](https://github.com/rishabhjainvit/desktop-tutorial/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rishabh Jain</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right"alt="codin" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwpengine.com%2Fwp-content%2Fuploads%2F2019%2F10%2Fshutterstock_2056165910-1024x465.jpg&tbnid=0XeJkIGfmGhAEM&vet=12ahUKEwjngvybt7eEAxXGlGMGHQ6BAaoQMygqegUIARDhAQ..i&imgrefurl=https%3A%2F%2Fwpengine.com%2Fresources%2Fcss-animation-wordpress%2F&docid=03H7OtmhJkLWqM&w=1024&h=465&q=animated%20images%20for%20coding&ved=2ahUKEwjngvybt7eEAxXGlGMGHQ6BAaoQMygqegUIARDhAQ">
